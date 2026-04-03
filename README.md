@@ -30,7 +30,7 @@ React / Next.js (basic frontend when needed)
 
 ### A bit more
 
-* Solved 250+ DSA problems
+
 * Cisco DevNet Associate certified
 * Currently learning more about system design
 
