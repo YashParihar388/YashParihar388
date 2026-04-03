@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi, I'm Yash 👋
 
-<!--
-**YashParihar388/YashParihar388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer who enjoys building systems that actually scale and don’t break under load.
 
-Here are some ideas to get you started:
+Right now I’m mainly working with Node.js, Express and PostgreSQL, and exploring how to design backend systems properly (not just make APIs work, but make them reliable and efficient).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I’ve worked on
+
+**QUICK.ai (AI SaaS platform)**
+Built a backend that can handle a large number of concurrent users. Integrated AI APIs for text and image generation and structured the system using a modular approach.
+
+**DentWise (AI dental assistant)**
+Worked on authentication, booking flow, and backend logic. Focused on making the system smoother for real users (reduced booking time significantly).
+
+**Document Automation System (SIH 2025)**
+Built APIs + WebSocket features and worked with microservices. Improved document retrieval speed a lot and integrated ML-based classification.
+
+---
+
+### Tech I use
+
+Node.js, Express, PostgreSQL
+MongoDB, MySQL
+Docker, AWS
+React / Next.js (basic frontend when needed)
+
+---
+
+### A bit more
+
+* Solved 250+ DSA problems
+* Cisco DevNet Associate certified
+* Currently learning more about system design
+
+---
+
+### Reach out
+
+Email: [yparihar8085@gmail.com](mailto:yparihar8085@gmail.com)
+LinkedIn: (www.linkedin.com/in/yash-singh-parihar-0a436226a)
+
+---
