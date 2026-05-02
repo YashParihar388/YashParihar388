@@ -21,7 +21,7 @@ Built APIs + WebSocket features and worked with microservices. Improved document
 
 ### Tech I use
 
-Node.js, Express, PostgreSQL
+Node.js,Fast api, Express, PostgreSQL
 MongoDB, MySQL
 Docker, AWS
 React / Next.js (basic frontend when needed)
